@@ -1,4 +1,4 @@
-Bem-vindo(a) ao meu perfil
+Bem-vindo(a) ao meu GitHub. :)
 
 
 Sinta-se à vontade para explorar meus repositórios, conhecer meus projetos e acompanhar minha evolução como desenvolvedora. Espero que você encontre algo interessante por aqui.
