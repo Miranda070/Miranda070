@@ -1,4 +1,4 @@
-# Welcome to my GitHub. 👋
+# Welcome to my GitHub
 
 Feel free to explore my repositories, check out my projects, and follow my journey as a software developer. I hope you find something interesting here!
 
@@ -26,7 +26,7 @@ Feel free to explore my repositories, check out my projects, and follow my journ
   </a>
 </p>
 
-Thank you for stopping by. Don't forget to drink some water. 💧
+Thank you for stopping by. Don't forget to drink some water. :)
 
 <p align="center">
   <picture>
